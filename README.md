@@ -30,6 +30,10 @@ npm run build
 
 `npm run data:build` deterministically rebuilds both committed bilingual JSON files from the committed data. It needs no network or credentials. The game uses the committed JSON at runtime. Optional photo/flag/club CDN assets load lazily; photos retry a second source and then a local silhouette. Existing local badges and portraits remain under `public/media/`.
 
+## GitHub Pages
+
+Pushing to `main` builds and deploys the static site with GitHub Actions. After the first successful workflow run, visit the repository’s **Settings → Pages** page to find the published URL.
+
 ## Data and credits
 
 - `data/active-source.json`: fixed ESPN roster records, supplemented with verified last-club data for free agents. [ESPN soccer](https://www.espn.com/soccer/); [Feyenoord’s Sterling signing announcement](https://www.feyenoord.com/en/news/feyenoord-sign-4-time-premier-league-winner-raheem-sterling-mbe-120226).
