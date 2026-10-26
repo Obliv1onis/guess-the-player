@@ -23,7 +23,7 @@ const flagEmoji=n=>regionalFlags[n]||((iso[n]||'').split('').map(c=>String.fromC
 const clubNames=new Map();
 for(const m of Object.values(metadata))for(const c of m.clubs||[]){const name=clubKey(c.name);if(!clubNames.has(name))clubNames.set(name,new Set());clubNames.get(name).add(clubKey(c.title));}
 const key=name=>{const direct=clubKey(name),matches=clubNames.get(direct);return matches?.size===1?[...matches][0]:direct;};
-const clubBadgeByKey=new Map();for(const [name,source] of Object.entries({...badges,...badgeSources}))clubBadgeByKey.set(key(name),source);
+const clubBadgeByKey=new Map();for(const [name,source] of Object.entries({...badgeSources,...badges}))clubBadgeByKey.set(key(name),source);
 for(const [filename,pool] of [['players',active],['legends',legends]]){
  if(pool.length!==1000)throw Error(`${filename} must contain exactly 1000 players`);
  let order=popularity[filename==='players'?'active':'legends'];
