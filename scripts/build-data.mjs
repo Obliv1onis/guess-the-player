@@ -23,6 +23,7 @@ const flagEmoji=n=>regionalFlags[n]||((iso[n]||'').split('').map(c=>String.fromC
 const clubNames=new Map();
 for(const m of Object.values(metadata))for(const c of m.clubs||[]){const name=clubKey(c.name);if(!clubNames.has(name))clubNames.set(name,new Set());clubNames.get(name).add(clubKey(c.title));}
 const key=name=>{const direct=clubKey(name),matches=clubNames.get(direct);return matches?.size===1?[...matches][0]:direct;};
+const clubBadgeByKey=new Map();for(const [name,source] of Object.entries({...badges,...badgeSources}))clubBadgeByKey.set(key(name),source);
 for(const [filename,pool] of [['players',active],['legends',legends]]){
  if(pool.length!==1000)throw Error(`${filename} must contain exactly 1000 players`);
  let order=popularity[filename==='players'?'active':'legends'];
@@ -50,6 +51,8 @@ for(const [filename,pool] of [['players',active],['legends',legends]]){
   if(p.retired){
    const history=careerOverrides[p.name]||(m.clubs||[]).map(c=>clubNames.get(clubKey(c.name))?.size>1?c.title:c.name);
    p.careerClubs=[...new Set([...history,p.club])];p.careerClubKeys=[...new Set([...(careerOverrides[p.name]?history.map(key):(m.clubs||[]).map(c=>clubKey(c.title))),p.clubKey])];
+   p.careerClubBadges=Object.fromEntries(p.careerClubs.map(club=>[club,clubBadgeByKey.get(key(club))||'']));
+   p.careerClubNamesZh=Object.fromEntries(p.careerClubs.map(club=>[club,translations[club]?convert(translations[club]):club]));
    p.careerSource=`https://en.wikipedia.org/wiki/${encodeURIComponent(m.wikiTitle||legendTitles[p.name]||p.name).replace(/%20/g,'_')}`;
   }
  }

@@ -13,4 +13,5 @@ html,body{min-height:100%;margin:0}main{width:100%;max-width:none;min-height:100
 .top-controls{flex-wrap:wrap;justify-content:flex-end;gap:10px}
 #difficulty{font:inherit;font-size:13px;border:1px solid var(--line,#dfe2d8);border-radius:8px;background:transparent;color:inherit;padding:9px 10px;cursor:pointer;max-width:100%}
 #difficulty:focus-visible{outline:2px solid #267451;outline-offset:3px}
+.legend-suggestion{align-items:flex-start;min-height:98px}.legend-suggestion>.suggestion-flag{margin-top:3px}.legend-suggestion .suggestion-info{min-width:0;flex:1}.career-clubs{display:flex;align-items:center;gap:7px;flex-wrap:wrap;margin-top:8px;max-width:100%}.career-club{height:38px;min-width:38px;padding:4px 6px;border-radius:5px;background:#f3f5ef;display:inline-flex;align-items:center;justify-content:center}.career-club img{width:29px;height:29px;object-fit:contain}.career-club-text{font-size:9px;color:#77816f;white-space:nowrap}.legend-suggestion small{line-height:1.4}
 @media(max-width:600px){.game-top{align-items:flex-start}.top-controls{justify-content:flex-start}#mode,#difficulty{flex:1;min-width:125px}}
