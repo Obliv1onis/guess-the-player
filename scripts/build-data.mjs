@@ -25,8 +25,18 @@ for(const m of Object.values(metadata))for(const c of m.clubs||[]){const name=cl
 const key=name=>{const direct=clubKey(name),matches=clubNames.get(direct);return matches?.size===1?[...matches][0]:direct;};
 for(const [filename,pool] of [['players',active],['legends',legends]]){
  if(pool.length!==1000)throw Error(`${filename} must contain exactly 1000 players`);
- const order=popularity[filename==='players'?'active':'legends'];
+ let order=popularity[filename==='players'?'active':'legends'];
  if(order.length!==1000||new Set(order).size!==1000||pool.some(p=>!order.includes(p.name)))throw Error(`Invalid popularity order: ${filename}`);
+ if(filename==='players'){
+  const majorClubs=new Set(['Arsenal','Chelsea','Liverpool','Manchester City','Manchester United','Tottenham Hotspur','Real Madrid','Barcelona','Atlético Madrid','Bayern Munich','Juventus','AC Milan','Internazionale']);
+  const rank=new Map(order.map((name,i)=>[name,i+1]));
+  const mustKeep=new Set(['Lionel Messi','Cristiano Ronaldo','Kylian Mbappé','Erling Haaland','Neymar','Mohamed Salah','Robert Lewandowski','Karim Benzema','Harry Kane','Vinícius Júnior','Jude Bellingham','Kevin De Bruyne','Luka Modrić','Antoine Griezmann','Luis Suárez','Son Heung-Min','Sadio Mané','Christian Pulisic','Raheem Sterling','Kyle Walker','Casemiro','Gabriel Martinelli']);
+  const easy=pool.filter(p=>majorClubs.has(p.club)||p.league==='usa.1'||p.league==='ksa.1'||mustKeep.has(p.name)).sort((a,b)=>{
+   const score=p=>rank.get(p.name)-(majorClubs.has(p.club)?100:0)-(['usa.1','ksa.1'].includes(p.league)?100:0);
+   return score(a)-score(b)||rank.get(a.name)-rank.get(b.name);
+  }).slice(0,200).map(p=>p.name);
+  order=[...easy,...order.filter(name=>!easy.includes(name))];
+ }
  const ranks=new Map(order.map((name,i)=>[name,i+1]));
  for(const p of pool){
   p.popularityRank=ranks.get(p.name);

@@ -63,13 +63,13 @@ test('renamed Shanghai Shenhua is accepted for Fan Zhiyi',()=>{
 });
 
 
-test('difficulty tiers contain 300/700/1000 unique, nested players in each mode',async()=>{
+test('difficulty tiers contain 200/700/1000 unique, nested players in each mode',async()=>{
  const {difficultyPool}=await import('./game.js');
  for(const file of ['players','legends']){
   const pool=JSON.parse(readFileSync(`public/${file}.json`));
   assert.deepEqual([...pool.map(p=>p.popularityRank)].sort((a,b)=>a-b),Array.from({length:1000},(_,i)=>i+1));
   const tiers=['easy','medium','hard'].map(d=>difficultyPool(pool,d));
-  assert.deepEqual(tiers.map(t=>t.length),[300,700,1000]);
+  assert.deepEqual(tiers.map(t=>t.length),[200,700,1000]);
   for(let i=0;i<2;i++)assert.ok(tiers[i].every(p=>tiers[i+1].some(q=>q.id===p.id)));
   const shuffled=[...pool].reverse();assert.deepEqual(difficultyPool(shuffled,'easy').map(p=>p.id).sort(),tiers[0].map(p=>p.id).sort());
  }
