@@ -1,0 +1,50 @@
+Nani|纳尼|Portugal|Manchester United|eng.1|LW|17|2011|24
+Pepe|佩佩|Portugal|Real Madrid|esp.1|CB|3|2014|31
+Pepe Reina|佩佩·雷纳|Spain|Liverpool|eng.1|GK|25|2009|26
+Vincent Kompany|文森特·孔帕尼|Belgium|Manchester City|eng.1|CB|4|2014|28
+Jan Vertonghen|扬·维尔通亨|Belgium|Tottenham Hotspur|eng.1|CB|5|2017|30
+Toby Alderweireld|托比·阿尔德韦雷尔德|Belgium|Tottenham Hotspur|eng.1|CB|4|2017|28
+Thomas Vermaelen|托马斯·维尔马伦|Belgium|Arsenal|eng.1|CB|5|2011|25
+Filipe Luís|菲利佩·路易斯|Brazil|Atlético Madrid|esp.1|LB|3|2014|28
+Ramires|拉米雷斯|Brazil|Chelsea|eng.1|CM|7|2012|25
+Hernanes|埃尔纳内斯|Brazil|Lazio|ita.1|CAM|8|2013|28
+Antonio Valencia|安东尼奥·瓦伦西亚|Ecuador|Manchester United|eng.1|RB|25|2017|31
+Anderson|安德森|Brazil|Manchester United|eng.1|CM|8|2008|20
+Michael Dawson|迈克尔·道森|England|Tottenham Hotspur|eng.1|CB|20|2010|26
+Mousa Dembélé|穆萨·登贝莱|Belgium|Tottenham Hotspur|eng.1|CM|19|2017|29
+Denílson|德尼尔森|Brazil|Real Betis|esp.1|LW|10|2002|24
+Roberto Soldado|罗伯托·索尔达多|Spain|Valencia|esp.1|ST|9|2012|27
+Álvaro Negredo|阿尔瓦罗·内格雷多|Spain|Manchester City|eng.1|ST|9|2014|28
+Fernando Gago|费尔南多·加戈|Argentina|Real Madrid|esp.1|CDM|8|2008|22
+Riccardo Montolivo|里卡尔多·蒙托利沃|Italy|AC Milan|ita.1|CM|18|2013|28
+Alberto Aquilani|阿尔贝托·阿奎拉尼|Italy|Liverpool|eng.1|CM|4|2010|25
+Alessandro Diamanti|亚历山德罗·迪亚曼蒂|Italy|Bologna|ita.1|CAM|23|2013|30
+Antonio Nocerino|安东尼奥·诺切里诺|Italy|AC Milan|ita.1|CM|22|2012|27
+Valon Behrami|瓦隆·贝赫拉米|Switzerland|Napoli|ita.1|CDM|85|2013|28
+Blerim Džemaili|布莱里姆·哲马伊利|Switzerland|Napoli|ita.1|CM|20|2013|27
+Philippe Senderos|菲利普·森德罗斯|Switzerland|Arsenal|eng.1|CB|6|2006|21
+Tranquillo Barnetta|特兰奎洛·巴内塔|Switzerland|Bayer Leverkusen|ger.1|LM|7|2010|25
+Stephan Lichtsteiner|斯特凡·利希施泰纳|Switzerland|Juventus|ita.1|RB|26|2015|31
+Johan Djourou|约翰·朱鲁|Switzerland|Arsenal|eng.1|CB|20|2011|24
+Eljero Elia|埃尔杰罗·埃利亚|Netherlands|Hamburg|ger.1|LW|11|2010|23
+Michel Vorm|米歇尔·沃尔姆|Netherlands|Swansea City|eng.1|GK|1|2013|29
+Maarten Stekelenburg|马滕·斯特克伦堡|Netherlands|Ajax|ned.1|GK|1|2010|27
+Klaas-Jan Huntelaar|克拉斯-扬·亨特拉尔|Netherlands|Schalke 04|ger.1|ST|25|2012|28
+Julio Cruz|胡利奥·克鲁斯|Argentina|Inter Milan|ita.1|ST|9|2008|33
+Roque Santa Cruz|罗克·圣克鲁斯|Paraguay|Blackburn Rovers|eng.1|ST|9|2008|26
+John Carew|约翰·卡鲁|Norway|Aston Villa|eng.1|ST|10|2009|29
+Bojan Krkić|博扬·科尔基奇|Spain|Barcelona|esp.1|ST|11|2010|19
+Diego Capel|迭戈·卡佩尔|Spain|Sevilla|esp.1|LW|16|2010|22
+Jonathan Soriano|霍纳坦·索里亚诺|Spain|Red Bull Salzburg|aut.1|ST|26|2014|28
+Raúl García|劳尔·加西亚|Spain|Athletic Bilbao|esp.1|CAM|22|2016|29
+Ander Iturraspe|安德尔·伊图拉斯佩|Spain|Athletic Bilbao|esp.1|CDM|8|2014|25
+Markel Susaeta|马尔克尔·苏萨埃塔|Spain|Athletic Bilbao|esp.1|RW|14|2014|26
+Andoni Iraola|安多尼·伊劳拉|Spain|Athletic Bilbao|esp.1|RB|15|2012|29
+Park Choong-kyun|朴忠均|South Korea|Jeonbuk Hyundai Motors|kor.1|CB|4|2007|34
+Dimitar Penev|迪米塔尔·佩内夫|Bulgaria|CSKA Sofia|bul.1|CB|5|1973|28
+Joleon Lescott|乔莱昂·莱斯科特|England|Manchester City|eng.1|CB|6|2012|29
+Phil Jagielka|菲尔·贾吉尔卡|England|Everton|eng.1|CB|6|2014|31
+Gareth McAuley|加雷斯·麦考利|Northern Ireland|West Bromwich Albion|eng.1|CB|23|2015|35
+Ashley Williams|阿什利·威廉斯|Wales|Swansea City|eng.1|CB|6|2013|28
+David Wheater|大卫·惠特|England|Bolton Wanderers|eng.1|CB|31|2012|25
+Robert Huth|罗伯特·胡特|Germany|Leicester City|eng.1|CB|6|2016|31

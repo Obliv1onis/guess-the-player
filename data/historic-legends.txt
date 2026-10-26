@@ -1,0 +1,500 @@
+Pelé|贝利|Brazil|Santos|bra.1|ST|10|1970|29
+Diego Maradona|迭戈·马拉多纳|Argentina|Napoli|ita.1|CAM|10|1987|26
+Johan Cruyff|约翰·克鲁伊夫|Netherlands|Ajax|ned.1|CF|14|1972|25
+Alfredo Di Stéfano|阿尔弗雷多·迪斯蒂法诺|Spain|Real Madrid|esp.1|CF|9|1960|33
+Ferenc Puskás|费伦茨·普斯卡什|Hungary|Real Madrid|esp.1|ST|10|1960|33
+Franz Beckenbauer|弗朗茨·贝肯鲍尔|Germany|Bayern Munich|ger.1|CB|5|1974|28
+Zinedine Zidane|齐内丁·齐达内|France|Real Madrid|esp.1|CAM|5|2002|29
+Ronaldo|罗纳尔多|Brazil|Inter Milan|ita.1|ST|9|1998|21
+Paolo Maldini|保罗·马尔蒂尼|Italy|AC Milan|ita.1|LB|3|1994|25
+Franco Baresi|弗兰科·巴雷西|Italy|AC Milan|ita.1|CB|6|1989|29
+Marco van Basten|马尔科·范巴斯滕|Netherlands|AC Milan|ita.1|ST|9|1989|24
+Ruud Gullit|路德·古利特|Netherlands|AC Milan|ita.1|CAM|10|1989|26
+Frank Rijkaard|弗兰克·里杰卡尔德|Netherlands|AC Milan|ita.1|CDM|8|1990|27
+Michel Platini|米歇尔·普拉蒂尼|France|Juventus|ita.1|CAM|10|1985|29
+Roberto Baggio|罗伯特·巴乔|Italy|Juventus|ita.1|CF|10|1993|26
+Romário|罗马里奥|Brazil|Barcelona|esp.1|ST|10|1994|28
+Hristo Stoichkov|赫里斯托·斯托伊奇科夫|Bulgaria|Barcelona|esp.1|ST|8|1994|28
+Gheorghe Hagi|格奥尔基·哈吉|Romania|Galatasaray|tur.1|CAM|10|2000|35
+George Best|乔治·贝斯特|Northern Ireland|Manchester United|eng.1|RW|7|1968|22
+Bobby Charlton|博比·查尔顿|England|Manchester United|eng.1|CAM|9|1968|30
+Bobby Moore|博比·摩尔|England|West Ham United|eng.1|CB|6|1966|25
+Gerd Müller|盖德·穆勒|Germany|Bayern Munich|ger.1|ST|9|1972|26
+Eusébio|尤西比奥|Portugal|Benfica|por.1|ST|10|1965|23
+Lev Yashin|列夫·雅辛|Russia|Dynamo Moscow|rus.1|GK|1|1963|33
+Garrincha|加林查|Brazil|Botafogo|bra.1|RW|7|1962|28
+Didi|迪迪|Brazil|Botafogo|bra.1|CM|8|1962|33
+Vavá|瓦瓦|Brazil|Palmeiras|bra.1|ST|9|1962|27
+Zico|济科|Brazil|Flamengo|bra.1|CAM|10|1981|28
+Sócrates|苏格拉底|Brazil|Corinthians|bra.1|CAM|8|1982|28
+Falcão|法尔考|Brazil|Roma|ita.1|CM|5|1983|29
+Rivelino|里维利诺|Brazil|Corinthians|bra.1|CAM|10|1970|24
+Carlos Alberto Torres|卡洛斯·阿尔贝托|Brazil|Santos|bra.1|RB|4|1970|25
+Jairzinho|雅伊尔津霍|Brazil|Botafogo|bra.1|RW|7|1970|25
+Tostão|托斯唐|Brazil|Cruzeiro|bra.1|CF|8|1970|23
+Nilton Santos|尼尔顿·桑托斯|Brazil|Botafogo|bra.1|LB|6|1962|37
+Djalma Santos|贾尔马·桑托斯|Brazil|Palmeiras|bra.1|RB|4|1962|33
+Giuseppe Meazza|朱塞佩·梅阿查|Italy|Inter Milan|ita.1|CF|9|1938|27
+Gianni Rivera|詹尼·里维拉|Italy|AC Milan|ita.1|CAM|10|1969|25
+Sandro Mazzola|桑德罗·马佐拉|Italy|Inter Milan|ita.1|CAM|10|1965|22
+Giacinto Facchetti|贾钦托·法切蒂|Italy|Inter Milan|ita.1|LB|3|1965|22
+Gaetano Scirea|加埃塔诺·西雷阿|Italy|Juventus|ita.1|CB|6|1982|29
+Dino Zoff|迪诺·佐夫|Italy|Juventus|ita.1|GK|1|1982|40
+Paolo Rossi|保罗·罗西|Italy|Juventus|ita.1|ST|9|1983|26
+Gianluca Vialli|詹卢卡·维亚利|Italy|Sampdoria|ita.1|ST|9|1991|26
+Roberto Mancini|罗伯托·曼奇尼|Italy|Sampdoria|ita.1|CF|10|1991|26
+Gianfranco Zola|詹弗兰科·佐拉|Italy|Chelsea|eng.1|CF|25|1998|31
+Alessandro Nesta|亚历山德罗·内斯塔|Italy|AC Milan|ita.1|CB|13|2003|27
+Fabio Cannavaro|法比奥·卡纳瓦罗|Italy|Juventus|ita.1|CB|28|2006|32
+Alessandro Del Piero|亚历山德罗·德尔皮耶罗|Italy|Juventus|ita.1|CF|10|1998|23
+Filippo Inzaghi|菲利波·因扎吉|Italy|AC Milan|ita.1|ST|9|2007|33
+Christian Vieri|克里斯蒂安·维埃里|Italy|Inter Milan|ita.1|ST|32|2003|29
+David Beckham|大卫·贝克汉姆|England|Manchester United|eng.1|RM|7|1999|24
+Paul Scholes|保罗·斯科尔斯|England|Manchester United|eng.1|CM|18|2008|33
+Ryan Giggs|瑞恩·吉格斯|Wales|Manchester United|eng.1|LM|11|1999|25
+Eric Cantona|埃里克·坎通纳|France|Manchester United|eng.1|CF|7|1996|30
+Roy Keane|罗伊·基恩|Republic of Ireland|Manchester United|eng.1|CDM|16|1999|27
+Gary Neville|加里·内维尔|England|Manchester United|eng.1|RB|2|1999|24
+Denis Law|丹尼斯·劳|Scotland|Manchester United|eng.1|ST|10|1964|24
+Peter Schmeichel|彼得·舒梅切尔|Denmark|Manchester United|eng.1|GK|1|1999|35
+Edwin van der Sar|埃德温·范德萨|Netherlands|Manchester United|eng.1|GK|1|2008|37
+Ruud van Nistelrooy|鲁德·范尼斯特鲁伊|Netherlands|Manchester United|eng.1|ST|10|2003|26
+Dennis Bergkamp|丹尼斯·博格坎普|Netherlands|Arsenal|eng.1|CF|10|2004|35
+Patrick Vieira|帕特里克·维埃拉|France|Arsenal|eng.1|CDM|4|2004|28
+Robert Pirès|罗伯特·皮雷|France|Arsenal|eng.1|LM|7|2004|30
+Freddie Ljungberg|弗雷迪·永贝里|Sweden|Arsenal|eng.1|RM|8|2004|27
+Tony Adams|托尼·亚当斯|England|Arsenal|eng.1|CB|6|1998|31
+David Seaman|大卫·希曼|England|Arsenal|eng.1|GK|1|1998|34
+Ian Wright|伊恩·赖特|England|Arsenal|eng.1|ST|8|1994|30
+Alan Shearer|阿兰·希勒|England|Newcastle United|eng.1|ST|9|1997|26
+Michael Owen|迈克尔·欧文|England|Liverpool|eng.1|ST|10|2001|21
+Robbie Fowler|罗比·福勒|England|Liverpool|eng.1|ST|9|1996|21
+Ian Rush|伊恩·拉什|Wales|Liverpool|eng.1|ST|9|1984|22
+Kenny Dalglish|肯尼·达格利什|Scotland|Liverpool|eng.1|CF|7|1984|33
+Kevin Keegan|凯文·基冈|England|Hamburg|ger.1|CF|7|1979|28
+Graeme Souness|格雷姆·索内斯|Scotland|Liverpool|eng.1|CM|11|1984|31
+John Barnes|约翰·巴恩斯|England|Liverpool|eng.1|LW|10|1990|26
+Bruce Grobbelaar|布鲁斯·格罗贝拉|Zimbabwe|Liverpool|eng.1|GK|1|1984|26
+Steve McManaman|史蒂夫·麦克马纳曼|England|Real Madrid|esp.1|RM|8|2000|28
+Fernando Hierro|费尔南多·耶罗|Spain|Real Madrid|esp.1|CB|4|2000|32
+Raúl|劳尔|Spain|Real Madrid|esp.1|ST|7|2002|24
+Fernando Morientes|费尔南多·莫伦特斯|Spain|Real Madrid|esp.1|ST|9|2000|24
+Fernando Redondo|费尔南多·雷东多|Argentina|Real Madrid|esp.1|CDM|6|2000|30
+Roberto Carlos|罗伯托·卡洛斯|Brazil|Real Madrid|esp.1|LB|3|2002|29
+Cafu|卡福|Brazil|AC Milan|ita.1|RB|2|2004|34
+Lilian Thuram|利利安·图拉姆|France|Juventus|ita.1|RB|21|2003|31
+Marcel Desailly|马塞尔·德塞利|France|AC Milan|ita.1|CB|8|1994|25
+Laurent Blanc|洛朗·布兰科|France|Inter Milan|ita.1|CB|5|2000|34
+Didier Deschamps|迪迪埃·德尚|France|Juventus|ita.1|CDM|14|1996|27
+Emmanuel Petit|埃马纽埃尔·佩蒂特|France|Arsenal|eng.1|CDM|17|1998|27
+Youri Djorkaeff|尤里·德约卡夫|France|Inter Milan|ita.1|CAM|6|1998|30
+Jean-Pierre Papin|让-皮埃尔·帕潘|France|Marseille|fra.1|ST|9|1991|27
+David Ginola|大卫·吉诺拉|France|Tottenham Hotspur|eng.1|LM|14|1999|32
+Just Fontaine|朱斯特·方丹|France|Stade de Reims|fra.1|ST|9|1958|24
+Raymond Kopa|雷蒙·科帕|France|Real Madrid|esp.1|CAM|7|1958|26
+Luis Figo|路易斯·菲戈|Portugal|Real Madrid|esp.1|RW|10|2002|29
+Rui Costa|鲁伊·科斯塔|Portugal|Fiorentina|ita.1|CAM|10|1999|27
+Deco|德科|Portugal|Barcelona|esp.1|CM|20|2006|28
+Pauleta|保莱塔|Portugal|Paris Saint-Germain|fra.1|ST|9|2006|33
+João Pinto|若昂·平托|Portugal|Benfica|por.1|CF|8|1994|22
+Vítor Baía|维托尔·拜亚|Portugal|Porto|por.1|GK|99|2004|34
+Michael Laudrup|米歇尔·劳德鲁普|Denmark|Barcelona|esp.1|CAM|9|1992|27
+Brian Laudrup|布莱恩·劳德鲁普|Denmark|Rangers|sco.1|RW|11|1996|27
+Preben Elkjær|普雷本·埃尔克耶尔|Denmark|Hellas Verona|ita.1|ST|11|1985|27
+Allan Simonsen|阿兰·西蒙森|Denmark|Borussia Mönchengladbach|ger.1|CF|9|1977|24
+Henrik Larsson|亨里克·拉尔森|Sweden|Celtic|sco.1|ST|7|2001|29
+Gunnar Nordahl|贡纳尔·诺达尔|Sweden|AC Milan|ita.1|ST|9|1951|29
+Nils Liedholm|尼尔斯·利德霍尔姆|Sweden|AC Milan|ita.1|CM|8|1951|28
+Gunnar Gren|贡纳尔·格伦|Sweden|AC Milan|ita.1|CAM|10|1951|30
+Tomas Brolin|托马斯·布罗林|Sweden|Parma|ita.1|CAM|11|1994|24
+Karl-Heinz Rummenigge|卡尔-海因茨·鲁梅尼格|Germany|Bayern Munich|ger.1|ST|11|1980|24
+Lothar Matthäus|洛塔尔·马特乌斯|Germany|Inter Milan|ita.1|CM|10|1990|29
+Andreas Brehme|安德烈亚斯·布雷默|Germany|Inter Milan|ita.1|LB|3|1990|29
+Jürgen Klinsmann|尤尔根·克林斯曼|Germany|Tottenham Hotspur|eng.1|ST|18|1995|30
+Rudi Völler|鲁迪·沃勒尔|Germany|Roma|ita.1|ST|9|1990|30
+Oliver Bierhoff|奥利弗·比埃尔霍夫|Germany|AC Milan|ita.1|ST|20|1999|31
+Matthias Sammer|马蒂亚斯·萨默尔|Germany|Borussia Dortmund|ger.1|CB|6|1996|28
+Stefan Effenberg|斯特凡·埃芬博格|Germany|Bayern Munich|ger.1|CM|11|2001|32
+Mehmet Scholl|穆罕默德·绍尔|Germany|Bayern Munich|ger.1|CAM|7|2001|30
+Thomas Häßler|托马斯·哈斯勒|Germany|Karlsruher SC|ger.1|CAM|10|1996|30
+Jürgen Kohler|尤尔根·科勒尔|Germany|Borussia Dortmund|ger.1|CB|2|1997|31
+Karl-Heinz Förster|卡尔-海因茨·福斯特|Germany|VfB Stuttgart|ger.1|CB|4|1984|25
+Manfred Kaltz|曼弗雷德·卡尔茨|Germany|Hamburg|ger.1|RB|2|1983|30
+Hans-Peter Briegel|汉斯-彼得·布里格尔|Germany|Hellas Verona|ita.1|LB|4|1985|29
+Berti Vogts|贝尔蒂·福格茨|Germany|Borussia Mönchengladbach|ger.1|RB|2|1974|27
+Günter Netzer|君特·内策尔|Germany|Borussia Mönchengladbach|ger.1|CAM|10|1972|27
+Wolfgang Overath|沃尔夫冈·奥弗拉特|Germany|FC Köln|ger.1|CM|10|1974|30
+Paul Breitner|保罗·布莱特纳|Germany|Bayern Munich|ger.1|CM|3|1982|30
+Sepp Maier|塞普·迈耶|Germany|Bayern Munich|ger.1|GK|1|1974|30
+Harald Schumacher|哈拉尔德·舒马赫|Germany|FC Köln|ger.1|GK|1|1986|32
+Oliver Kahn|奥利弗·卡恩|Germany|Bayern Munich|ger.1|GK|1|2001|31
+Jens Lehmann|延斯·莱曼|Germany|Arsenal|eng.1|GK|1|2004|34
+Uwe Seeler|乌韦·席勒|Germany|Hamburg|ger.1|ST|9|1966|29
+Fritz Walter|弗里茨·瓦尔特|Germany|Kaiserslautern|ger.1|CAM|10|1954|33
+Helmut Rahn|赫尔穆特·拉恩|Germany|Rot-Weiss Essen|ger.1|RW|8|1954|24
+Johan Neeskens|约翰·内斯肯斯|Netherlands|Ajax|ned.1|CM|8|1973|21
+Rob Rensenbrink|罗布·伦森布林克|Netherlands|Anderlecht|bel.1|LW|11|1978|30
+Johnny Rep|约翰尼·雷普|Netherlands|Ajax|ned.1|RW|7|1973|21
+Arie Haan|阿里·哈恩|Netherlands|Ajax|ned.1|CDM|15|1973|24
+Ruud Krol|路德·克罗尔|Netherlands|Ajax|ned.1|LB|5|1973|24
+Willem van Hanegem|威廉·范哈内亨|Netherlands|Feyenoord|ned.1|CM|10|1970|26
+Ronald Koeman|罗纳德·科曼|Netherlands|Barcelona|esp.1|CB|4|1992|29
+Frank de Boer|弗兰克·德波尔|Netherlands|Ajax|ned.1|CB|5|1995|25
+Ronald de Boer|罗纳德·德波尔|Netherlands|Ajax|ned.1|RM|6|1995|25
+Marc Overmars|马克·奥维马斯|Netherlands|Arsenal|eng.1|LW|11|1998|25
+Edgar Davids|埃德加·戴维斯|Netherlands|Juventus|ita.1|CM|26|2003|30
+Clarence Seedorf|克拉伦斯·西多夫|Netherlands|AC Milan|ita.1|CM|10|2007|31
+Patrick Kluivert|帕特里克·克鲁伊维特|Netherlands|Barcelona|esp.1|ST|9|1999|22
+Jaap Stam|雅普·斯塔姆|Netherlands|Manchester United|eng.1|CB|6|1999|26
+Pierre van Hooijdonk|皮埃尔·范霍伊东克|Netherlands|Feyenoord|ned.1|ST|9|2002|32
+Roy Makaay|罗伊·马凯|Netherlands|Bayern Munich|ger.1|ST|10|2005|30
+Davor Šuker|达沃·苏克|Croatia|Real Madrid|esp.1|ST|9|1997|29
+Zvonimir Boban|兹沃尼米尔·博班|Croatia|AC Milan|ita.1|CAM|10|1994|25
+Robert Prosinečki|罗伯特·普罗辛内茨基|Croatia|Red Star Belgrade|srb.1|CM|8|1991|22
+Dejan Savićević|德扬·萨维切维奇|Montenegro|AC Milan|ita.1|CAM|10|1994|27
+Dragan Stojković|德拉甘·斯托伊科维奇|Serbia|Nagoya Grampus|jpn.1|CAM|10|1995|30
+Dragan Džajić|德拉甘·扎伊奇|Serbia|Red Star Belgrade|srb.1|LW|11|1973|27
+Safet Sušić|萨费特·苏西奇|Bosnia and Herzegovina|Paris Saint-Germain|fra.1|CAM|10|1986|31
+Darko Pančev|达尔科·潘采夫|North Macedonia|Red Star Belgrade|srb.1|ST|9|1991|25
+Dejan Stanković|德扬·斯坦科维奇|Serbia|Inter Milan|ita.1|CM|5|2010|31
+Siniša Mihajlović|西尼萨·米哈伊洛维奇|Serbia|Lazio|ita.1|CB|11|2000|31
+Iván Zamorano|伊万·萨莫拉诺|Chile|Real Madrid|esp.1|ST|9|1995|28
+Marcelo Salas|马塞洛·萨拉斯|Chile|Lazio|ita.1|ST|9|2000|25
+Carlos Valderrama|卡洛斯·巴尔德拉马|Colombia|Montpellier|fra.1|CAM|10|1990|28
+René Higuita|雷内·伊基塔|Colombia|Atlético Nacional|col.1|GK|1|1989|22
+Faustino Asprilla|福斯蒂诺·阿斯普里拉|Colombia|Parma|ita.1|ST|11|1993|23
+Enzo Francescoli|恩佐·弗朗西斯科利|Uruguay|River Plate|arg.1|CAM|10|1996|34
+Rubén Sosa|鲁本·索萨|Uruguay|Inter Milan|ita.1|ST|11|1994|28
+Hugo Sánchez|乌戈·桑切斯|Mexico|Real Madrid|esp.1|ST|9|1990|31
+Luis Hernández|路易斯·埃尔南德斯|Mexico|Necaxa|mex.1|ST|15|1998|29
+Carlos Hermosillo|卡洛斯·埃莫西略|Mexico|Cruz Azul|mex.1|ST|27|1995|30
+Jared Borgetti|哈雷德·博尔格蒂|Mexico|Santos Laguna|mex.1|ST|58|2001|27
+Cuauhtémoc Blanco|夸乌特莫克·布兰科|Mexico|Club América|mex.1|CAM|10|2005|32
+Jay-Jay Okocha|杰伊-杰伊·奥科查|Nigeria|Bolton Wanderers|eng.1|CAM|10|2004|30
+Nwankwo Kanu|恩万科沃·卡努|Nigeria|Arsenal|eng.1|ST|25|2002|25
+Rashidi Yekini|拉希迪·耶基尼|Nigeria|Vitória Setúbal|por.1|ST|9|1994|30
+Abedi Pelé|阿贝迪·贝利|Ghana|Marseille|fra.1|CAM|10|1993|28
+Tony Yeboah|托尼·耶博阿|Ghana|Leeds United|eng.1|ST|21|1995|29
+George Weah|乔治·维阿|Liberia|AC Milan|ita.1|ST|9|1996|29
+Roger Milla|罗杰·米拉|Cameroon|Montpellier|fra.1|ST|9|1988|36
+Thomas N'Kono|托马斯·恩科诺|Cameroon|Espanyol|esp.1|GK|1|1988|31
+Mustapha Hadji|穆斯塔法·哈吉|Morocco|Coventry City|eng.1|CAM|11|2000|28
+Rabah Madjer|拉巴赫·马杰尔|Algeria|Porto|por.1|ST|9|1987|28
+Hidetoshi Nakata|中田英寿|Japan|Parma|ita.1|CAM|10|2002|25
+Shunsuke Nakamura|中村俊辅|Japan|Celtic|sco.1|CAM|25|2007|29
+Hiroshi Nanami|名波浩|Japan|Júbilo Iwata|jpn.1|CM|7|1998|25
+Masashi Nakayama|中山雅史|Japan|Júbilo Iwata|jpn.1|ST|9|1998|30
+Hwang Sun-hong|黄善洪|South Korea|Pohang Steelers|kor.1|ST|18|1995|26
+Hong Myung-bo|洪明甫|South Korea|Pohang Steelers|kor.1|CB|20|1995|26
+Cha Bum-kun|车范根|South Korea|Bayer Leverkusen|ger.1|ST|11|1988|35
+Ali Daei|阿里·代伊|Iran|Bayern Munich|ger.1|ST|24|1999|30
+Ali Karimi|阿里·卡里米|Iran|Bayern Munich|ger.1|CAM|8|2006|27
+Saeed Al-Owairan|赛义德·奥维兰|Saudi Arabia|Al Shabab|ksa.1|CAM|10|1994|26
+Sami Al-Jaber|萨米·贾比尔|Saudi Arabia|Al Hilal|ksa.1|ST|9|2000|27
+Sun Jihai|孙继海|China|Manchester City|eng.1|RB|17|2003|25
+Fan Zhiyi|范志毅|China|Crystal Palace|eng.1|CB|5|2000|30
+Li Tie|李铁|China|Everton|eng.1|CDM|12|2003|26
+Zheng Zhi|郑智|China|Guangzhou|chn.1|CM|10|2013|32
+Shao Jiayi|邵佳一|China|1860 Munich|ger.1|CAM|8|2004|24
+Hao Haidong|郝海东|China|Dalian Shide|chn.1|ST|9|2001|31
+Yang Chen|杨晨|China|Eintracht Frankfurt|ger.1|ST|21|1999|25
+Ma Mingyu|马明宇|China|Sichuan Quanxing|chn.1|CM|8|1999|29
+Li Xiaopeng|李霄鹏|China|Shandong Taishan|chn.1|RM|8|1999|24
+Andrés Iniesta|安德烈斯·伊涅斯塔|Spain|Barcelona|esp.1|CM|8|2012|28
+Xavi|哈维|Spain|Barcelona|esp.1|CM|6|2011|31
+Sergio Busquets|塞尔希奥·布斯克茨|Spain|Barcelona|esp.1|CDM|5|2015|26
+Fernando Torres|费尔南多·托雷斯|Spain|Liverpool|eng.1|ST|9|2008|24
+David Villa|大卫·比利亚|Spain|Valencia|esp.1|ST|7|2009|27
+David Silva|大卫·席尔瓦|Spain|Manchester City|eng.1|CAM|21|2018|32
+Cesc Fàbregas|塞斯克·法布雷加斯|Spain|Arsenal|eng.1|CM|4|2010|23
+Gerard Piqué|杰拉德·皮克|Spain|Barcelona|esp.1|CB|3|2015|28
+Carles Puyol|卡莱斯·普约尔|Spain|Barcelona|esp.1|CB|5|2009|31
+Iker Casillas|伊克尔·卡西利亚斯|Spain|Real Madrid|esp.1|GK|1|2010|29
+Xabi Alonso|哈维·阿隆索|Spain|Real Madrid|esp.1|CDM|14|2014|32
+Guti|古蒂|Spain|Real Madrid|esp.1|CAM|14|2008|31
+Joaquín|华金|Spain|Real Betis|esp.1|RW|17|2005|23
+Fernando Llorente|费尔南多·略伦特|Spain|Athletic Bilbao|esp.1|ST|9|2012|27
+Wayne Rooney|韦恩·鲁尼|England|Manchester United|eng.1|CF|10|2011|25
+Steven Gerrard|史蒂文·杰拉德|England|Liverpool|eng.1|CM|8|2005|25
+Frank Lampard|弗兰克·兰帕德|England|Chelsea|eng.1|CM|8|2005|27
+John Terry|约翰·特里|England|Chelsea|eng.1|CB|26|2005|24
+Rio Ferdinand|里奥·费迪南德|England|Manchester United|eng.1|CB|5|2008|29
+Ashley Cole|阿什利·科尔|England|Chelsea|eng.1|LB|3|2012|31
+Joe Cole|乔·科尔|England|Chelsea|eng.1|CAM|10|2006|24
+Michael Carrick|迈克尔·卡里克|England|Manchester United|eng.1|CDM|16|2008|26
+Joe Hart|乔·哈特|England|Manchester City|eng.1|GK|1|2012|25
+Gareth Bale|加雷斯·贝尔|Wales|Real Madrid|esp.1|RW|11|2018|28
+Aaron Lennon|阿伦·列侬|England|Tottenham Hotspur|eng.1|RW|7|2010|23
+Theo Walcott|西奥·沃尔科特|England|Arsenal|eng.1|RW|14|2013|24
+Jack Wilshere|杰克·威尔希尔|England|Arsenal|eng.1|CM|10|2013|21
+Arjen Robben|阿尔扬·罗本|Netherlands|Bayern Munich|ger.1|RW|10|2013|29
+Robin van Persie|罗宾·范佩西|Netherlands|Manchester United|eng.1|ST|20|2013|29
+Wesley Sneijder|韦斯利·斯内德|Netherlands|Inter Milan|ita.1|CAM|10|2010|26
+Rafael van der Vaart|拉斐尔·范德法特|Netherlands|Tottenham Hotspur|eng.1|CAM|11|2011|28
+Mark van Bommel|马克·范博梅尔|Netherlands|Bayern Munich|ger.1|CDM|17|2010|33
+Dirk Kuyt|德克·库伊特|Netherlands|Liverpool|eng.1|RW|18|2007|26
+Franck Ribéry|弗兰克·里贝里|France|Bayern Munich|ger.1|LW|7|2013|30
+Thierry Henry|蒂埃里·亨利|France|Arsenal|eng.1|ST|14|2004|26
+David Trezeguet|大卫·特雷泽盖|France|Juventus|ita.1|ST|17|2002|24
+Nicolas Anelka|尼古拉·阿内尔卡|France|Chelsea|eng.1|ST|39|2010|31
+Florent Malouda|弗洛朗·马卢达|France|Chelsea|eng.1|LM|15|2010|30
+Patrice Evra|帕特里斯·埃弗拉|France|Manchester United|eng.1|LB|3|2008|27
+Bacary Sagna|巴卡里·萨尼亚|France|Arsenal|eng.1|RB|3|2011|28
+Laurent Koscielny|洛朗·科斯切尔尼|France|Arsenal|eng.1|CB|6|2015|29
+Raphaël Varane|拉斐尔·瓦拉内|France|Real Madrid|esp.1|CB|5|2018|25
+Blaise Matuidi|布莱斯·马图伊迪|France|Paris Saint-Germain|fra.1|CM|14|2016|29
+Samir Nasri|萨米尔·纳斯里|France|Manchester City|eng.1|CAM|8|2014|26
+Djibril Cissé|吉布里尔·西塞|France|Liverpool|eng.1|ST|9|2005|23
+Philipp Lahm|菲利普·拉姆|Germany|Bayern Munich|ger.1|RB|21|2013|29
+Bastian Schweinsteiger|巴斯蒂安·施魏因斯泰格|Germany|Bayern Munich|ger.1|CM|31|2013|28
+Michael Ballack|米夏埃尔·巴拉克|Germany|Bayern Munich|ger.1|CM|13|2006|29
+Mesut Özil|梅苏特·厄齐尔|Germany|Arsenal|eng.1|CAM|11|2016|27
+Miroslav Klose|米罗斯拉夫·克洛泽|Germany|Bayern Munich|ger.1|ST|18|2010|32
+Toni Kroos|托尼·克罗斯|Germany|Real Madrid|esp.1|CM|8|2018|28
+Sami Khedira|萨米·赫迪拉|Germany|Real Madrid|esp.1|CDM|6|2014|27
+Per Mertesacker|佩尔·默特萨克|Germany|Arsenal|eng.1|CB|4|2014|29
+Mats Hummels|马茨·胡梅尔斯|Germany|Borussia Dortmund|ger.1|CB|15|2013|24
+Benedikt Höwedes|贝内迪克特·赫韦德斯|Germany|Schalke 04|ger.1|CB|4|2014|26
+Heiko Westermann|海科·韦斯特曼|Germany|Hamburg|ger.1|CB|4|2013|29
+Simon Rolfes|西蒙·罗尔费斯|Germany|Bayer Leverkusen|ger.1|CDM|6|2011|29
+Tim Borowski|蒂姆·博罗夫斯基|Germany|Werder Bremen|ger.1|CM|24|2006|26
+Bernd Schneider|贝恩德·施奈德|Germany|Bayer Leverkusen|ger.1|RM|25|2002|28
+Jens Nowotny|延斯·诺沃特尼|Germany|Bayer Leverkusen|ger.1|CB|5|2002|28
+Sebastian Deisler|塞巴斯蒂安·代斯勒|Germany|Bayern Munich|ger.1|RM|26|2006|26
+Kevin Kurányi|凯文·库兰伊|Germany|Schalke 04|ger.1|ST|22|2007|25
+Mario Gómez|马里奥·戈麦斯|Germany|Bayern Munich|ger.1|ST|33|2012|26
+Pavel Nedvěd|帕维尔·内德维德|Czech Republic|Juventus|ita.1|LM|11|2003|30
+Tomáš Rosický|托马什·罗西基|Czech Republic|Arsenal|eng.1|CAM|7|2012|31
+Jan Koller|扬·科勒|Czech Republic|Borussia Dortmund|ger.1|ST|9|2002|29
+Milan Baroš|米兰·巴罗什|Czech Republic|Liverpool|eng.1|ST|5|2005|23
+Petr Čech|彼得·切赫|Czech Republic|Chelsea|eng.1|GK|1|2012|30
+Karel Poborský|卡雷尔·波博斯基|Czech Republic|Manchester United|eng.1|RM|15|1997|25
+Vladimír Šmicer|弗拉迪米尔·施米切尔|Czech Republic|Liverpool|eng.1|CAM|7|2005|32
+Tomas Ujfalusi|托马什·乌伊法鲁西|Czech Republic|Atlético Madrid|esp.1|CB|17|2010|32
+Marek Jankulovski|马雷克·扬库洛夫斯基|Czech Republic|AC Milan|ita.1|LB|18|2007|30
+Dida|迪达|Brazil|AC Milan|ita.1|GK|1|2003|29
+Júlio César|儒利奥·塞萨尔|Brazil|Inter Milan|ita.1|GK|12|2010|30
+Lúcio|卢西奥|Brazil|Inter Milan|ita.1|CB|6|2010|32
+Juan|胡安|Brazil|Roma|ita.1|CB|4|2008|29
+Gilberto Silva|吉尔伯托·席尔瓦|Brazil|Arsenal|eng.1|CDM|19|2004|27
+Emerson|埃默松|Brazil|Juventus|ita.1|CDM|8|2006|30
+Juninho Pernambucano|儒尼尼奥|Brazil|Lyon|fra.1|CAM|8|2006|31
+Zé Roberto|泽·罗伯托|Brazil|Bayern Munich|ger.1|CM|11|2006|31
+Kaká|卡卡|Brazil|AC Milan|ita.1|CAM|22|2007|25
+Ronaldinho|罗纳尔迪尼奥|Brazil|Barcelona|esp.1|CAM|10|2006|26
+Rivaldo|里瓦尔多|Brazil|Barcelona|esp.1|CAM|10|1999|27
+Adriano|阿德里亚诺|Brazil|Inter Milan|ita.1|ST|10|2005|23
+Robinho|罗比尼奥|Brazil|Real Madrid|esp.1|LW|10|2007|23
+Júlio Baptista|儒利奥·巴普蒂斯塔|Brazil|Sevilla|esp.1|CAM|19|2005|23
+Diego|迭戈|Brazil|Werder Bremen|ger.1|CAM|10|2009|24
+Alex de Souza|阿莱克斯·德索萨|Brazil|Fenerbahçe|tur.1|CAM|10|2007|29
+Alex|阿莱士|Brazil|Chelsea|eng.1|CB|33|2010|28
+Maicon|麦孔|Brazil|Inter Milan|ita.1|RB|13|2010|28
+Maxwell|马克斯韦尔|Brazil|Paris Saint-Germain|fra.1|LB|17|2016|34
+Dani Alves|丹尼·阿尔维斯|Brazil|Barcelona|esp.1|RB|2|2011|28
+Marcelo|马塞洛|Brazil|Real Madrid|esp.1|LB|12|2018|30
+Felipe Melo|费利佩·梅洛|Brazil|Galatasaray|tur.1|CDM|3|2013|29
+Javier Zanetti|哈维尔·萨内蒂|Argentina|Inter Milan|ita.1|RB|4|2010|36
+Esteban Cambiasso|埃斯特班·坎比亚索|Argentina|Inter Milan|ita.1|CDM|19|2010|29
+Juan Sebastián Verón|胡安·塞巴斯蒂安·贝隆|Argentina|Lazio|ita.1|CM|23|2000|25
+Hernán Crespo|埃尔南·克雷斯波|Argentina|Parma|ita.1|ST|9|1999|23
+Gabriel Batistuta|加布里埃尔·巴蒂斯图塔|Argentina|Fiorentina|ita.1|ST|9|1999|30
+Claudio Caniggia|克劳迪奥·卡尼吉亚|Argentina|Atalanta|ita.1|ST|7|1991|24
+Ariel Ortega|阿里尔·奥尔特加|Argentina|River Plate|arg.1|CAM|10|2002|28
+Juan Román Riquelme|胡安·罗曼·里克尔梅|Argentina|Boca Juniors|arg.1|CAM|10|2007|29
+Pablo Aimar|巴勃罗·艾马尔|Argentina|Valencia|esp.1|CAM|21|2004|24
+Javier Saviola|哈维尔·萨维奥拉|Argentina|Barcelona|esp.1|ST|7|2004|22
+Diego Milito|迭戈·米利托|Argentina|Inter Milan|ita.1|ST|22|2010|30
+Gabriel Milito|加布里埃尔·米利托|Argentina|Real Zaragoza|esp.1|CB|6|2006|25
+Walter Samuel|瓦尔特·萨穆埃尔|Argentina|Inter Milan|ita.1|CB|25|2010|32
+Roberto Ayala|罗伯托·阿亚拉|Argentina|Valencia|esp.1|CB|4|2004|31
+Javier Mascherano|哈维尔·马斯切拉诺|Argentina|Barcelona|esp.1|CDM|14|2011|26
+Maxi Rodríguez|马克西·罗德里格斯|Argentina|Atlético Madrid|esp.1|RM|11|2008|27
+Gonzalo Higuaín|冈萨洛·伊瓜因|Argentina|Napoli|ita.1|ST|9|2016|28
+Carlos Tevez|卡洛斯·特维斯|Argentina|Manchester City|eng.1|ST|32|2011|27
+Sergio Agüero|塞尔希奥·阿圭罗|Argentina|Manchester City|eng.1|ST|16|2012|24
+Ezequiel Lavezzi|埃塞基耶尔·拉维齐|Argentina|Napoli|ita.1|LW|22|2012|27
+Rodrigo Palacio|罗德里戈·帕拉西奥|Argentina|Inter Milan|ita.1|ST|8|2014|32
+Pablo Zabaleta|巴勃罗·萨巴莱塔|Argentina|Manchester City|eng.1|RB|5|2014|29
+Martín Demichelis|马丁·德米凯利斯|Argentina|Manchester City|eng.1|CB|26|2014|33
+Fabricio Coloccini|法布里西奥·科洛奇尼|Argentina|Newcastle United|eng.1|CB|2|2012|30
+Diego Forlán|迭戈·弗兰|Uruguay|Atlético Madrid|esp.1|ST|7|2010|31
+Diego Lugano|迭戈·卢加诺|Uruguay|Fenerbahçe|tur.1|CB|2|2008|27
+Dario Šimić|达里奥·西米奇|Croatia|AC Milan|ita.1|CB|14|2003|27
+Darijo Srna|达里奥·斯尔纳|Croatia|Shakhtar Donetsk|ukr.1|RB|33|2009|27
+Niko Kranjčar|尼科·克拉尼察|Croatia|Tottenham Hotspur|eng.1|CAM|21|2010|25
+Niko Kovač|尼科·科瓦奇|Croatia|Bayern Munich|ger.1|CDM|8|2002|30
+Robert Kovač|罗伯特·科瓦奇|Croatia|Bayern Munich|ger.1|CB|4|2003|29
+Vedran Ćorluka|韦德兰·乔尔卢卡|Croatia|Tottenham Hotspur|eng.1|CB|22|2010|24
+Mario Mandžukić|马里奥·曼朱基奇|Croatia|Juventus|ita.1|ST|17|2017|31
+Eduardo da Silva|爱德华多·达席尔瓦|Croatia|Arsenal|eng.1|ST|9|2008|25
+Ivan Rakitić|伊万·拉基蒂奇|Croatia|Barcelona|esp.1|CM|4|2015|27
+Nikica Jelavić|尼基察·耶拉维奇|Croatia|Everton|eng.1|ST|7|2012|26
+Nemanja Vidić|内马尼亚·维迪奇|Serbia|Manchester United|eng.1|CB|15|2008|26
+Branislav Ivanović|布拉尼斯拉夫·伊万诺维奇|Serbia|Chelsea|eng.1|RB|2|2012|28
+Dimitar Berbatov|迪米塔尔·贝尔巴托夫|Bulgaria|Manchester United|eng.1|ST|9|2011|30
+Stiliyan Petrov|斯蒂利扬·彼得罗夫|Bulgaria|Aston Villa|eng.1|CM|19|2010|30
+Park Ji-sung|朴智星|South Korea|Manchester United|eng.1|LM|13|2008|27
+Park Chu-young|朴主永|South Korea|Monaco|fra.1|ST|10|2010|25
+Ahn Jung-hwan|安贞焕|South Korea|Perugia|ita.1|ST|10|2002|26
+Lee Young-pyo|李荣杓|South Korea|Tottenham Hotspur|eng.1|LB|3|2006|29
+Seol Ki-hyeon|薛琦铉|South Korea|Reading|eng.1|RW|19|2007|28
+Shinji Ono|小野伸二|Japan|Feyenoord|ned.1|CM|14|2002|22
+Junichi Inamoto|稻本润一|Japan|Fulham|eng.1|CM|6|2003|23
+Shinji Okazaki|冈崎慎司|Japan|Leicester City|eng.1|ST|20|2016|30
+Makoto Hasebe|长谷部诚|Japan|Eintracht Frankfurt|ger.1|CDM|20|2018|34
+Yasuhito Endō|远藤保仁|Japan|Gamba Osaka|jpn.1|CM|7|2008|28
+Yoshikatsu Kawaguchi|川口能活|Japan|Júbilo Iwata|jpn.1|GK|1|2006|30
+Seigo Narazaki|楢崎正刚|Japan|Nagoya Grampus|jpn.1|GK|1|2010|34
+Tim Cahill|蒂姆·卡希尔|Australia|Everton|eng.1|CAM|17|2009|29
+Harry Kewell|哈里·科威尔|Australia|Leeds United|eng.1|LW|10|2001|22
+Mark Viduka|马克·维杜卡|Australia|Leeds United|eng.1|ST|9|2001|25
+Brett Emerton|布雷特·埃默顿|Australia|Blackburn Rovers|eng.1|RM|7|2006|27
+Mark Bresciano|马克·布雷西亚诺|Australia|Parma|ita.1|CAM|23|2004|24
+Lucas Neill|卢卡斯·尼尔|Australia|Blackburn Rovers|eng.1|CB|2|2006|28
+Mark Schwarzer|马克·施瓦泽|Australia|Middlesbrough|eng.1|GK|1|2006|33
+Landon Donovan|兰登·多诺万|United States|LA Galaxy|usa.1|CAM|10|2011|29
+Clint Dempsey|克林特·邓普西|United States|Fulham|eng.1|ST|23|2012|29
+Claudio Reyna|克劳迪奥·雷纳|United States|Manchester City|eng.1|CM|6|2005|31
+Brian McBride|布莱恩·麦克布莱德|United States|Fulham|eng.1|ST|20|2006|34
+Tim Howard|蒂姆·霍华德|United States|Everton|eng.1|GK|24|2009|30
+Brad Friedel|布拉德·弗里德尔|United States|Blackburn Rovers|eng.1|GK|1|2005|34
+Kasey Keller|凯西·凯勒|United States|Tottenham Hotspur|eng.1|GK|13|2003|33
+Carlos Bocanegra|卡洛斯·博卡内格拉|United States|Fulham|eng.1|CB|3|2007|28
+DaMarcus Beasley|达马库斯·比斯利|United States|PSV Eindhoven|ned.1|LW|11|2005|23
+Yaya Touré|亚亚·图雷|Ivory Coast|Manchester City|eng.1|CM|42|2014|31
+Kolo Touré|科洛·图雷|Ivory Coast|Arsenal|eng.1|CB|28|2004|23
+Didier Drogba|迪迪埃·德罗巴|Ivory Coast|Chelsea|eng.1|ST|11|2012|34
+Salomon Kalou|萨洛蒙·卡卢|Ivory Coast|Chelsea|eng.1|LW|21|2012|26
+Emmanuel Eboué|埃马纽埃尔·埃布埃|Ivory Coast|Arsenal|eng.1|RB|27|2006|23
+Didier Zokora|迪迪埃·佐科拉|Ivory Coast|Tottenham Hotspur|eng.1|CDM|4|2008|27
+Samuel Eto'o|萨穆埃尔·埃托奥|Cameroon|Barcelona|esp.1|ST|9|2006|25
+Geremi|格雷米|Cameroon|Chelsea|eng.1|RM|14|2005|26
+Lauren|劳伦|Cameroon|Arsenal|eng.1|RB|12|2004|27
+Michael Essien|迈克尔·埃辛|Ghana|Chelsea|eng.1|CDM|5|2006|23
+Sulley Muntari|苏利·蒙塔里|Ghana|Inter Milan|ita.1|CM|11|2010|25
+Stephen Appiah|斯蒂芬·阿皮亚|Ghana|Fenerbahçe|tur.1|CM|4|2007|26
+Asamoah Gyan|阿萨莫阿·吉安|Ghana|Sunderland|eng.1|ST|33|2011|25
+John Obi Mikel|约翰·奥比·米克尔|Nigeria|Chelsea|eng.1|CDM|12|2012|25
+John Utaka|约翰·乌塔卡|Nigeria|Portsmouth|eng.1|RW|17|2008|26
+Yakubu Aiyegbeni|雅库布·阿耶格贝尼|Nigeria|Everton|eng.1|ST|22|2008|25
+Joseph Yobo|约瑟夫·雅博|Nigeria|Everton|eng.1|CB|4|2008|27
+Obafemi Martins|奥巴费米·马丁斯|Nigeria|Inter Milan|ita.1|ST|30|2005|20
+Benni McCarthy|本尼·麦卡锡|South Africa|Porto|por.1|ST|9|2004|26
+Steven Pienaar|史蒂文·皮纳尔|South Africa|Everton|eng.1|LM|22|2010|28
+El Hadji Diouf|埃尔-哈吉·迪乌夫|Senegal|Bolton Wanderers|eng.1|RW|21|2006|25
+Papa Bouba Diop|帕帕·布巴·迪奥普|Senegal|Fulham|eng.1|CDM|14|2005|27
+Frédéric Kanouté|弗雷德里克·卡努特|Mali|Sevilla|esp.1|ST|12|2007|29
+Seydou Keita|塞杜·凯塔|Mali|Barcelona|esp.1|CM|15|2009|29
+Mahamadou Diarra|穆罕默杜·迪亚拉|Mali|Real Madrid|esp.1|CDM|6|2007|26
+Noureddine Naybet|努雷丁·奈贝特|Morocco|Deportivo La Coruña|esp.1|CB|4|2000|30
+Mehdi Benatia|迈赫迪·贝纳蒂亚|Morocco|Roma|ita.1|CB|17|2014|27
+Hatem Ben Arfa|哈特姆·本阿尔法|France|Newcastle United|eng.1|RW|10|2012|25
+Abou Diaby|阿布·迪亚比|France|Arsenal|eng.1|CM|2|2010|24
+Mathieu Flamini|马蒂厄·弗拉米尼|France|Arsenal|eng.1|CDM|16|2008|24
+Jérémy Toulalan|热雷米·图拉朗|France|Lyon|fra.1|CDM|28|2008|24
+Diego Tristán|迭戈·特里斯坦|Spain|Deportivo La Coruña|esp.1|ST|9|2002|26
+Dwight Yorke|德怀特·约克|Trinidad and Tobago|Manchester United|eng.1|ST|19|1999|27
+Andy Cole|安迪·科尔|England|Manchester United|eng.1|ST|9|1999|27
+Teddy Sheringham|泰迪·谢林汉姆|England|Tottenham Hotspur|eng.1|ST|10|1996|30
+Les Ferdinand|莱斯·费迪南德|England|Newcastle United|eng.1|ST|9|1996|29
+Matt Le Tissier|马特·勒蒂西埃|England|Southampton|eng.1|CAM|7|1995|26
+Paul Gascoigne|保罗·加斯科因|England|Tottenham Hotspur|eng.1|CAM|8|1991|24
+Chris Waddle|克里斯·瓦德尔|England|Marseille|fra.1|RW|8|1991|30
+Glenn Hoddle|格伦·霍德尔|England|Tottenham Hotspur|eng.1|CM|10|1984|26
+Bryan Robson|布莱恩·罗布森|England|Manchester United|eng.1|CM|7|1990|33
+Gary Lineker|加里·莱因克尔|England|Tottenham Hotspur|eng.1|ST|10|1990|29
+Peter Beardsley|彼得·比尔兹利|England|Liverpool|eng.1|CF|7|1990|29
+Stuart Pearce|斯图尔特·皮尔斯|England|Nottingham Forest|eng.1|LB|3|1990|28
+Des Walker|德斯·沃克|England|Nottingham Forest|eng.1|CB|4|1990|24
+Terry Butcher|特里·布彻|England|Rangers|sco.1|CB|6|1989|30
+Mark Hughes|马克·休斯|Wales|Manchester United|eng.1|ST|10|1994|30
+Ian Harte|伊恩·哈特|Republic of Ireland|Leeds United|eng.1|LB|3|2001|23
+Robbie Keane|罗比·基恩|Republic of Ireland|Tottenham Hotspur|eng.1|ST|10|2006|25
+Damien Duff|达米恩·达夫|Republic of Ireland|Chelsea|eng.1|LW|11|2005|26
+Steve Finnan|史蒂夫·芬南|Republic of Ireland|Liverpool|eng.1|RB|3|2005|29
+Shay Given|谢伊·吉文|Republic of Ireland|Newcastle United|eng.1|GK|1|2006|30
+Richard Dunne|理查德·邓恩|Republic of Ireland|Manchester City|eng.1|CB|22|2008|28
+John O'Shea|约翰·奥谢|Republic of Ireland|Manchester United|eng.1|CB|22|2008|27
+Neil Lennon|尼尔·列侬|Northern Ireland|Celtic|sco.1|CDM|18|2003|31
+Barry Ferguson|巴里·弗格森|Scotland|Rangers|sco.1|CM|6|2008|30
+Paul Lambert|保罗·兰伯特|Scotland|Borussia Dortmund|ger.1|CDM|17|1997|27
+Ally McCoist|阿利·麦考伊斯特|Scotland|Rangers|sco.1|ST|9|1993|30
+Gary McAllister|加里·麦卡利斯特|Scotland|Leeds United|eng.1|CM|10|1992|27
+Gary Speed|加里·斯皮德|Wales|Leeds United|eng.1|LM|11|1992|22
+Craig Bellamy|克雷格·贝拉米|Wales|Newcastle United|eng.1|ST|17|2003|23
+John Arne Riise|约翰·阿尔内·里瑟|Norway|Liverpool|eng.1|LB|6|2005|24
+Ole Gunnar Solskjær|奥莱·居纳尔·索尔斯克亚|Norway|Manchester United|eng.1|ST|20|1999|26
+Tore André Flo|托雷·安德烈·弗洛|Norway|Chelsea|eng.1|ST|19|2000|27
+Ronny Johnsen|罗尼·约翰森|Norway|Manchester United|eng.1|CB|5|1999|30
+Jari Litmanen|亚里·利特马宁|Finland|Ajax|ned.1|CAM|10|1995|24
+Sami Hyypiä|萨米·海皮亚|Finland|Liverpool|eng.1|CB|4|2005|31
+Eiður Guðjohnsen|埃杜尔·古德约翰森|Iceland|Chelsea|eng.1|ST|22|2005|26
+Anders Svensson|安德斯·斯文森|Sweden|Southampton|eng.1|CM|8|2003|26
+Olof Mellberg|奥洛夫·梅尔贝里|Sweden|Aston Villa|eng.1|CB|4|2005|27
+Kim Källström|谢尔·谢尔斯特伦|Sweden|Lyon|fra.1|CM|6|2008|25
+Anders Limpar|安德斯·林帕尔|Sweden|Arsenal|eng.1|LM|11|1991|25
+Jesper Grønkjær|耶斯佩尔·格伦夏尔|Denmark|Chelsea|eng.1|LW|30|2003|25
+Dennis Rommedahl|丹尼斯·罗梅达尔|Denmark|PSV Eindhoven|ned.1|RW|7|2003|24
+Thomas Gravesen|托马斯·格拉维森|Denmark|Everton|eng.1|CM|16|2004|28
+Jon Dahl Tomasson|约恩·达尔·托马森|Denmark|AC Milan|ita.1|ST|15|2003|26
+Martin Laursen|马丁·劳尔森|Denmark|Aston Villa|eng.1|CB|5|2008|30
+Daniel Agger|丹尼尔·阿格|Denmark|Liverpool|eng.1|CB|5|2009|24
+Christian Poulsen|克里斯蒂安·波尔森|Denmark|Sevilla|esp.1|CDM|8|2007|27
+Jesper Olsen|耶斯佩尔·奥尔森|Denmark|Manchester United|eng.1|LW|11|1985|24
+Jan Mølby|扬·莫尔比|Denmark|Liverpool|eng.1|CM|10|1986|22
+Søren Lerby|瑟伦·勒尔比|Denmark|Bayern Munich|ger.1|CM|8|1985|27
+Frank Arnesen|弗兰克·阿内森|Denmark|PSV Eindhoven|ned.1|CM|8|1988|31
+Zlatan Ibrahimović|兹拉坦·伊布拉希莫维奇|Sweden|AC Milan|ita.1|ST|11|2011|29
+Francesco Totti|弗朗切斯科·托蒂|Italy|Roma|ita.1|CAM|10|2001|24
+Daniele De Rossi|达尼埃莱·德罗西|Italy|Roma|ita.1|CDM|16|2008|24
+Andrea Pirlo|安德烈亚·皮尔洛|Italy|AC Milan|ita.1|CM|21|2007|28
+Gianluigi Buffon|詹路易吉·布冯|Italy|Juventus|ita.1|GK|1|2006|28
+Gennaro Gattuso|詹纳罗·加图索|Italy|AC Milan|ita.1|CDM|8|2007|29
+Massimo Ambrosini|马西莫·安布罗西尼|Italy|AC Milan|ita.1|CDM|23|2007|30
+Gianluca Zambrotta|詹卢卡·赞布罗塔|Italy|Juventus|ita.1|RB|19|2006|29
+Giorgio Chiellini|乔治奥·基耶利尼|Italy|Juventus|ita.1|CB|3|2015|30
+Leonardo Bonucci|莱昂纳多·博努奇|Italy|Juventus|ita.1|CB|19|2017|30
+Andrea Barzagli|安德烈亚·巴尔扎利|Italy|Juventus|ita.1|CB|15|2015|34
+Claudio Marchisio|克劳迪奥·马尔基西奥|Italy|Juventus|ita.1|CM|8|2015|29
+Luca Toni|卢卡·托尼|Italy|Fiorentina|ita.1|ST|30|2006|29
+Antonio Di Natale|安东尼奥·迪纳塔莱|Italy|Udinese|ita.1|ST|10|2010|32
+Antonio Cassano|安东尼奥·卡萨诺|Italy|Sampdoria|ita.1|CF|99|2010|27
+Fabrizio Miccoli|法布里齐奥·米科利|Italy|Palermo|ita.1|ST|10|2010|30
+Fabrizio Ravanelli|法布里齐奥·拉瓦内利|Italy|Juventus|ita.1|ST|11|1996|27
+Giuseppe Signori|朱塞佩·西格诺里|Italy|Lazio|ita.1|ST|11|1994|26
+Alessandro Costacurta|亚历山德罗·科斯塔库塔|Italy|AC Milan|ita.1|CB|5|1994|28
+Mauro Tassotti|毛罗·塔索蒂|Italy|AC Milan|ita.1|RB|2|1994|34
+Demetrio Albertini|德梅特里奥·阿尔贝蒂尼|Italy|AC Milan|ita.1|CM|4|1994|22
+Angelo Peruzzi|安杰洛·佩鲁齐|Italy|Juventus|ita.1|GK|1|1996|26
+Gianluca Pagliuca|詹卢卡·帕柳卡|Italy|Inter Milan|ita.1|GK|1|1998|31
+Francesco Toldo|弗朗切斯科·托尔多|Italy|Fiorentina|ita.1|GK|1|2000|28
+Luigi Di Biagio|路易吉·迪比亚吉奥|Italy|Inter Milan|ita.1|CDM|14|2002|31
+Simone Perrotta|西蒙尼·佩罗塔|Italy|Roma|ita.1|CM|20|2007|29
+Mauro Camoranesi|毛罗·卡莫拉内西|Italy|Juventus|ita.1|RM|16|2006|29
+Massimo Oddo|马西莫·奥多|Italy|AC Milan|ita.1|RB|44|2007|31
+Cristian Zaccardo|克里斯蒂安·扎卡尔多|Italy|Palermo|ita.1|RB|2|2006|24
+Marco Materazzi|马尔科·马特拉齐|Italy|Inter Milan|ita.1|CB|23|2006|32
+Christian Panucci|克里斯蒂安·帕努奇|Italy|Roma|ita.1|RB|2|2008|35
+Giuseppe Bergomi|朱塞佩·贝尔戈米|Italy|Inter Milan|ita.1|CB|2|1989|25
+Walter Zenga|瓦尔特·曾加|Italy|Inter Milan|ita.1|GK|1|1989|29
+Riccardo Ferri|里卡尔多·费里|Italy|Inter Milan|ita.1|CB|5|1989|25
+Nicola Berti|尼古拉·贝尔蒂|Italy|Inter Milan|ita.1|CM|8|1989|22
+Fernando Couto|费尔南多·库托|Portugal|Lazio|ita.1|CB|24|2000|30
+Paulo Sousa|保罗·索萨|Portugal|Borussia Dortmund|ger.1|CDM|6|1997|26
+Sérgio Conceição|塞尔吉奥·孔塞桑|Portugal|Lazio|ita.1|RW|21|2000|25
+Ricardo Carvalho|里卡多·卡瓦略|Portugal|Chelsea|eng.1|CB|6|2005|27
+Paulo Ferreira|保罗·费雷拉|Portugal|Chelsea|eng.1|RB|20|2005|26
+Nuno Gomes|努诺·戈麦斯|Portugal|Benfica|por.1|ST|21|2005|28
+Simão|西芒|Portugal|Benfica|por.1|LW|20|2005|25
+Maniche|马尼切|Portugal|Porto|por.1|CM|18|2004|26
+Costinha|科斯蒂尼亚|Portugal|Porto|por.1|CDM|6|2004|29
+Miguel Veloso|米格尔·维洛索|Portugal|Genoa|ita.1|CDM|4|2011|25
+Raul Meireles|劳尔·梅雷莱斯|Portugal|Chelsea|eng.1|CM|16|2012|29
+Hélder Postiga|埃尔德·波斯蒂加|Portugal|Porto|por.1|ST|9|2003|20
+Nuno Valente|努诺·瓦伦特|Portugal|Porto|por.1|LB|8|2004|29
+Bosingwa|博辛瓦|Portugal|Chelsea|eng.1|RB|17|2012|29
+Pedro Mendes|佩德罗·门德斯|Portugal|Porto|por.1|CM|4|2004|25
+Li Weifeng|李玮锋|China|Shenzhen|chn.1|CB|5|2004|25
+Li Jinyu|李金羽|China|Shandong Taishan|chn.1|ST|29|2006|29
+Zhao Junzhe|肇俊哲|China|Liaoning|chn.1|CM|9|2004|25

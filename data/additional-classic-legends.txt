@@ -1,0 +1,100 @@
+Sol Campbell|索尔·坎贝尔|England|Arsenal|eng.1|CB|23|2004|29
+Ledley King|莱德利·金|England|Tottenham Hotspur|eng.1|CB|26|2010|29
+Jamie Carragher|杰米·卡拉格|England|Liverpool|eng.1|CB|23|2005|27
+Paul Ince|保罗·因斯|England|Manchester United|eng.1|CM|8|1994|26
+David Batty|大卫·巴蒂|England|Leeds United|eng.1|CDM|4|1992|23
+Lee Dixon|李·迪克逊|England|Arsenal|eng.1|RB|2|1998|34
+Nigel Winterburn|奈杰尔·温特伯恩|England|Arsenal|eng.1|LB|3|1998|34
+Martin Keown|马丁·基翁|England|Arsenal|eng.1|CB|5|2002|35
+Ray Parlour|雷·帕洛尔|England|Arsenal|eng.1|RM|15|2002|29
+Edu Gaspar|埃杜·加斯帕尔|Brazil|Arsenal|eng.1|CM|17|2004|26
+Alexander Hleb|亚历山大·赫莱布|Belarus|Arsenal|eng.1|CAM|13|2008|27
+Andriy Shevchenko|安德烈·舍甫琴科|Ukraine|AC Milan|ita.1|ST|7|2004|27
+Dunga|邓加|Brazil|Fiorentina|ita.1|CDM|5|1990|26
+Jorginho (1964)|若尔金霍|Brazil|Bayern Munich|ger.1|RB|2|1994|29
+Bebeto|贝贝托|Brazil|Deportivo La Coruña|esp.1|ST|11|1994|30
+Careca|卡雷卡|Brazil|Napoli|ita.1|ST|9|1990|29
+Müller (1966)|穆勒|Brazil|São Paulo|bra.1|ST|7|1993|27
+Serginho|塞尔吉尼奥|Brazil|AC Milan|ita.1|LB|27|2003|31
+Roque Júnior|罗克·儒尼奥尔|Brazil|AC Milan|ita.1|CB|25|2003|26
+Leonardo|莱昂纳多|Brazil|AC Milan|ita.1|CAM|18|1999|29
+Mauro Silva|毛罗·席尔瓦|Brazil|Deportivo La Coruña|esp.1|CDM|6|2000|32
+Luis Enrique|路易斯·恩里克|Spain|Barcelona|esp.1|CM|21|1999|29
+Pep Guardiola|佩普·瓜迪奥拉|Spain|Barcelona|esp.1|CDM|4|1992|21
+Gaizka Mendieta|盖斯卡·门迭塔|Spain|Valencia|esp.1|CM|6|2000|26
+Rubén Baraja|鲁本·巴拉哈|Spain|Valencia|esp.1|CM|8|2004|28
+David Albelda|大卫·阿尔贝尔达|Spain|Valencia|esp.1|CDM|6|2004|26
+Vicente Rodríguez|维森特·罗德里格斯|Spain|Valencia|esp.1|LW|14|2004|22
+Santiago Cañizares|圣地亚哥·卡尼萨雷斯|Spain|Valencia|esp.1|GK|1|2004|34
+Víctor Valdés|维克托·巴尔德斯|Spain|Barcelona|esp.1|GK|1|2011|29
+Sergi Barjuán|塞尔吉·巴尔胡安|Spain|Barcelona|esp.1|LB|12|1999|27
+Iván de la Peña|伊万·德拉佩尼亚|Spain|Espanyol|esp.1|CAM|9|2007|31
+Miguel Ángel Nadal|米格尔·安赫尔·纳达尔|Spain|Barcelona|esp.1|CB|20|1992|25
+Andrey Arshavin|安德烈·阿尔沙文|Russia|Arsenal|eng.1|LW|23|2009|28
+Valery Karpin|瓦列里·卡尔平|Russia|Real Sociedad|esp.1|RM|4|2003|34
+Aleksandr Mostovoi|亚历山大·莫斯托沃伊|Russia|Celta Vigo|esp.1|CAM|10|2003|34
+Igor Dobrovolski|伊戈尔·多布罗沃尔斯基|Russia|Marseille|fra.1|CAM|10|1993|25
+Oleg Blokhin|奥列格·布洛欣|Ukraine|Dynamo Kyiv|ukr.1|ST|11|1975|22
+Igor Belanov|伊戈尔·别拉诺夫|Ukraine|Dynamo Kyiv|ukr.1|ST|11|1986|25
+Oleh Protasov|奥列格·普罗塔索夫|Ukraine|Dynamo Kyiv|ukr.1|ST|9|1988|24
+Rinat Dasayev|里纳特·达萨耶夫|Russia|Spartak Moscow|rus.1|GK|1|1988|30
+Emile Heskey|埃米尔·赫斯基|England|Liverpool|eng.1|ST|8|2001|23
+Peter Crouch|彼得·克劳奇|England|Tottenham Hotspur|eng.1|ST|15|2010|29
+Jermain Defoe|杰梅因·迪福|England|Tottenham Hotspur|eng.1|ST|18|2010|27
+Shola Ameobi|绍拉·阿梅奥比|Nigeria|Newcastle United|eng.1|ST|23|2012|30
+Kevin Nolan|凯文·诺兰|England|Bolton Wanderers|eng.1|CAM|4|2006|24
+Kevin Davies|凯文·戴维斯|England|Bolton Wanderers|eng.1|ST|14|2008|31
+Matthew Taylor|马修·泰勒|England|Portsmouth|eng.1|LM|14|2006|24
+Nicky Butt|尼基·巴特|England|Manchester United|eng.1|CM|8|1999|24
+Darren Fletcher|达伦·弗莱彻|Scotland|Manchester United|eng.1|CM|24|2009|25
+Wes Brown|韦斯·布朗|England|Manchester United|eng.1|CB|6|2008|28
+Mikaël Silvestre|米卡埃尔·西尔维斯特|France|Manchester United|eng.1|LB|27|2003|25
+Louis Saha|路易·萨哈|France|Manchester United|eng.1|ST|9|2006|27
+Louis Boa Morte|路易斯·博阿莫特|Portugal|Fulham|eng.1|LW|11|2006|28
+Steed Malbranque|斯蒂德·马尔布兰克|France|Fulham|eng.1|CAM|14|2005|25
+Pascal Chimbonda|帕斯卡尔·辛邦达|France|Tottenham Hotspur|eng.1|RB|2|2007|28
+Eric Abidal|埃里克·阿比达尔|France|Barcelona|esp.1|LB|22|2011|31
+Willy Sagnol|威利·萨尼奥尔|France|Bayern Munich|ger.1|RB|2|2006|29
+Vincent Candela|樊尚·坎德拉|France|Roma|ita.1|LB|32|2001|27
+Bixente Lizarazu|比森特·利扎拉祖|France|Bayern Munich|ger.1|LB|3|2001|31
+Alain Giresse|阿兰·吉雷瑟|France|Bordeaux|fra.1|CM|10|1984|31
+Jean Tigana|让·蒂加纳|France|Bordeaux|fra.1|CM|14|1984|29
+Luis Fernández|路易斯·费尔南德斯|France|Paris Saint-Germain|fra.1|CDM|6|1986|26
+Bernard Lacombe|贝尔纳·拉孔布|France|Bordeaux|fra.1|ST|9|1984|31
+Dominique Rocheteau|多米尼克·罗什托|France|Paris Saint-Germain|fra.1|ST|7|1986|31
+Jean-Marc Bosman|让-马克·博斯曼|Belgium|RFC Liège|bel.1|CM|8|1988|24
+Enzo Scifo|恩佐·希福|Belgium|Monaco|fra.1|CAM|10|1997|31
+Marc Wilmots|马克·威尔莫茨|Belgium|Schalke 04|ger.1|CAM|10|1997|28
+Luc Nilis|吕克·尼利斯|Belgium|PSV Eindhoven|ned.1|ST|9|1997|30
+Eric Gerets|埃里克·格雷茨|Belgium|PSV Eindhoven|ned.1|RB|2|1988|34
+Jan Ceulemans|扬·瑟勒芒斯|Belgium|Club Brugge|bel.1|CAM|11|1986|29
+Jean-Marie Pfaff|让-马里·普法夫|Belgium|Bayern Munich|ger.1|GK|1|1986|32
+Michel Preud'homme|米歇尔·普雷德霍姆|Belgium|Benfica|por.1|GK|1|1995|36
+Andreas Herzog|安德烈亚斯·赫尔佐格|Austria|Werder Bremen|ger.1|CAM|10|1999|30
+Toni Polster|托尼·波尔斯特|Austria|FC Köln|ger.1|ST|9|1996|32
+Andreas Möller|安德烈亚斯·穆勒|Germany|Borussia Dortmund|ger.1|CAM|10|1997|29
+Dieter Eilts|迪特尔·艾尔茨|Germany|Werder Bremen|ger.1|CDM|6|1996|31
+Stefan Reuter|斯特凡·罗伊特|Germany|Borussia Dortmund|ger.1|RB|7|1997|30
+Guido Buchwald|吉多·布赫瓦尔德|Germany|VfB Stuttgart|ger.1|CB|5|1992|31
+Dieter Hoeneß|迪特尔·赫内斯|Germany|Bayern Munich|ger.1|ST|9|1984|31
+Uli Hoeneß|乌利·赫内斯|Germany|Bayern Munich|ger.1|RW|10|1974|22
+Klaus Allofs|克劳斯·阿洛夫斯|Germany|Werder Bremen|ger.1|ST|9|1992|35
+Thomas Allofs|托马斯·阿洛夫斯|Germany|FC Köln|ger.1|ST|9|1986|26
+Klaus Fischer|克劳斯·费舍尔|Germany|Schalke 04|ger.1|ST|9|1977|27
+Horst Hrubesch|霍斯特·赫鲁贝施|Germany|Hamburg|ger.1|ST|9|1983|32
+Felix Magath|费利克斯·马加特|Germany|Hamburg|ger.1|CAM|10|1983|29
+Jupp Heynckes|尤普·海因克斯|Germany|Borussia Mönchengladbach|ger.1|ST|9|1975|30
+Allan Hansen|阿兰·汉森|Denmark|Hamburg|ger.1|CM|8|1983|27
+Alan Hansen|阿兰·汉森|Scotland|Liverpool|eng.1|CB|6|1984|28
+Alan Kennedy|阿兰·肯尼迪|England|Liverpool|eng.1|LB|3|1984|29
+Ray Clemence|雷·克莱门斯|England|Liverpool|eng.1|GK|1|1977|28
+Phil Neal|菲尔·尼尔|England|Liverpool|eng.1|RB|2|1984|33
+Phil Thompson|菲尔·汤普森|England|Liverpool|eng.1|CB|4|1981|27
+Ray Houghton|雷·霍顿|Republic of Ireland|Liverpool|eng.1|RM|8|1990|28
+Ronnie Whelan|罗尼·惠兰|Republic of Ireland|Liverpool|eng.1|CM|5|1990|28
+Steve Nicol|史蒂夫·尼科尔|Scotland|Liverpool|eng.1|RB|2|1990|28
+Steve Staunton|史蒂夫·斯汤顿|Republic of Ireland|Aston Villa|eng.1|LB|3|1996|27
+Gordon Strachan|戈登·斯特拉坎|Scotland|Leeds United|eng.1|RM|7|1992|35
+David O'Leary|大卫·奥莱利|Republic of Ireland|Arsenal|eng.1|CB|5|1989|31
+Liam Brady|利亚姆·布雷迪|Republic of Ireland|Arsenal|eng.1|CM|7|1979|23
+Frank Stapleton|弗兰克·斯特普尔顿|Republic of Ireland|Manchester United|eng.1|ST|9|1985|28

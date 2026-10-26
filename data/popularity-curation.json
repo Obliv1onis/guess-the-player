@@ -1,0 +1,9 @@
+{
+  "method": "Popularity-oriented ranking. The leading globally recognizable current players and all-time legends are manually placed first. Remaining active players are ordered by historical FIFA overall plus international-reputation scores, with a boost for major clubs and prominent clubs outside Europe. Remaining legends use the same archived FIFA data where available, followed by alphabetically ordered players without a rating match. The order is a curated game ranking, not a measured global poll.",
+  "sources": [
+    "https://github.com/kushal-gopal/EA-Sports-Fifa/blob/main/players_15.csv",
+    "https://sofifa.com/players?type=all&showCol%5B0%5D=oa&showCol%5B1%5D=ir"
+  ],
+  "manualActiveNames": 172,
+  "manualLegendNames": 170
+}
