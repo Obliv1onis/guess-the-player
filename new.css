@@ -6,3 +6,5 @@
 
 /* Each column owns its vertical flow; expanded settings cannot stretch chat rows. */
 .ai-sidebar{grid-column:1;grid-row:2;min-width:0}.ai-play{grid-column:2;grid-row:2;min-width:0;display:flex;flex-direction:column;align-self:start}.ai-round{flex:0 0 auto;min-height:56px}.ai-conversation{flex:0 0 auto;margin:0}#question-form{flex:0 0 auto}.ai-game .ai-rules{padding-top:24px}.ai-game footer{flex:0 0 auto}@media(max-width:800px){.ai-sidebar{grid-column:1;grid-row:2}.ai-play{grid-column:1;grid-row:3}.ai-game .ai-rules{padding-top:14px}.ai-round{min-height:48px}}
+
+.ai-header{justify-content:flex-start}.ai-header>div{margin-right:auto}#ai-language{background:transparent;border:0;color:#49643b;font-size:12px;padding:9px 0;white-space:nowrap}@media(max-width:390px){.ai-header select{width:auto;flex:1}}
