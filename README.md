@@ -32,6 +32,8 @@ npm run build
 
 ## GitHub Pages
 
+The independent Chinese AI mode is available only at `/guess-the-player/new` (Pages redirects to `/new/`); the original interface has no entry link. It randomly selects from the existing nested Easy/Medium pool (700 players), with Active and Legends libraries. Enter a DeepSeek API Key to ask bounded questions, including yes/no, short choices and subjective hypotheticals. Open-ended requests are refused by the AI referee. Player guesses use the local bilingual search and ID comparison; winning unlocks the next round. Keys live only in page memory and requests go directly to DeepSeek's [Chat Completions API](https://api-docs.deepseek.com/api/create-chat-completion/) using `deepseek-flash`. Model replies remain probabilistic; the static client is intended for casual play, not anti-cheat protection. No real paid API call is made by the automated tests.
+
 Pushing to `main` builds and deploys the static site with GitHub Actions. After the first successful workflow run, visit the repository’s **Settings → Pages** page to find the published URL.
 
 ## Data and credits
