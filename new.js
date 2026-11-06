@@ -20,7 +20,7 @@ $('#question-form').onsubmit=async e=>{
  busy=true;$('#ai-error').textContent='';controller=new AbortController();const requestController=controller;const timer=setTimeout(()=>requestController.abort(),45000);sync();
  try{const result=await askDeepSeek({key,player:target,history:historyMessages,question,signal:requestController.signal});
   if(requestController.signal.aborted)return;
-  message('user',question);message('assistant',`${result.allowed?'':'问题范围过大或不符合规则：'}${result.answer}`);
+  message('user',question);message('assistant',result.answer);
   historyMessages.push({role:'user',content:question},{role:'assistant',content:JSON.stringify(result)});questions++;$('#question').value='';
  }catch(error){if(controller===requestController)$('#ai-error').textContent=error.name==='AbortError'?'请求已取消或超时，可重新提问。':error instanceof TypeError?'连接 DeepSeek 失败，请检查网络后重试。':error.message;
  }finally{clearTimeout(timer);if(controller===requestController){busy=false;sync();}}
