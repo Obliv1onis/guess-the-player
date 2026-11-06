@@ -2,8 +2,11 @@
 <html lang="zh-CN"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="theme-color" content="#f6f7f2"><title>AI 猜球星 — Touchline</title><link rel="stylesheet" href="/new.css"></head>
 <body><main class="ai-main"><section class="ai-game" aria-label="AI 猜球星">
 <header class="ai-header"><div><span class="ai-eyebrow">TOUCHLINE / AI MODE</span><h1>猜足球球星 <span class="ai-mode-tag">AI 模式</span></h1><p>简单题库 · 200 人 · 不限提问次数</p></div><select id="ai-pool" aria-label="题库"><option value="active">现役 · 简单 200 人</option><option value="legends">传奇 · 简单 200 人</option></select></header>
+<aside class="ai-sidebar" aria-label="设置与玩法">
 <details id="key-settings" open><summary>DeepSeek API Key</summary><form id="key-form"><label for="api-key">你的 API Key</label><div class="ai-input-row"><input id="api-key" type="password" autocomplete="off" spellcheck="false" placeholder="sk-…" required><button>使用此 Key</button><button type="button" id="clear-key" class="ai-secondary">清除</button></div><p>Key 仅保存在当前页面内存中，刷新后需重新填写。问题与本轮球员资料直接发送到 DeepSeek，使用你的 API 额度。</p></form><span id="key-status" role="status"></span></details>
 <div class="ai-rules"><strong>玩法很简单</strong><p>可以问「他在英超踢球吗？」「左脚还是右脚？」「如果上大学，你觉得他会学文科还是理科？」；不能问「他是哪个俱乐部的？」「介绍他的生涯」。是非题只回答是、不是或不确定；选项题只回答你给出的选项。</p><div class="ai-examples"><button type="button">他在英超踢球吗？</button><button type="button">左脚还是右脚？</button><button type="button">如果上大学，你觉得他会学文科还是理科？</button></div></div>
+</aside>
+<div class="ai-play">
 <div class="ai-round"><span id="round-status" role="status">正在加载题库…</span><span id="round-count">提问 0 · 猜测 0</span></div>
 <div id="conversation" class="ai-conversation" role="log" aria-label="本轮对话" aria-live="polite"></div>
 <p id="ai-error" role="alert"></p>
@@ -11,4 +14,5 @@
 <form id="ai-guess-form"><label for="player-search">已有答案？直接猜球员</label><div class="ai-input-row"><div class="ai-search"><input id="player-search" autocomplete="off" placeholder="搜索中英文球员名" role="combobox" aria-expanded="false" aria-controls="player-options" disabled><div id="player-options" role="listbox" hidden></div></div><button id="guess-player" disabled>确认猜测</button></div></form>
 <button id="next-round" hidden>猜对了，开始下一轮 ↗</button>
 <footer>球员仅从简单档 200 人中随机选出；俱乐部、年龄等采用题库快照。</footer>
+</div>
 </section></main><script type="module" src="/new.js"></script></body></html>
